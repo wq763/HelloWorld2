@@ -13,7 +13,6 @@ public class HelloWorldActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.hello_world_layout);
         Log.d(msg,"The onCreat() event");
       //  Log.d("HelloWorldActivity","onCreat execute");
     }
