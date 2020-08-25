@@ -8,7 +8,7 @@ public class HelloWorldActivity extends AppCompatActivity {
     String msg = "Android: ";
 
     /**
-    * 修改国会大厦公司vhj
+    * 修改国会大厦公司
     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
