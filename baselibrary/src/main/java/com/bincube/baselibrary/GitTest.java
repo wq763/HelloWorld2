@@ -6,5 +6,4 @@ package com.bincube.baselibrary;
 
 public class GitTest {
 
-
 }
