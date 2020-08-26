@@ -7,9 +7,6 @@ import android.util.Log;
 public class HelloWorldActivity extends AppCompatActivity {
     String msg = "Android: ";
 
-    /**
-    * 修改国会大厦公司dxvgbnh
-    */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
