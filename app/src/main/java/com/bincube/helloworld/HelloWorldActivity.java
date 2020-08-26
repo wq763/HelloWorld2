@@ -5,8 +5,9 @@ import android.os.Bundle;
 import android.util.Log;
 
 public class HelloWorldActivity extends AppCompatActivity {
-    String msg = "Android: ";
+    private GitTest gitTest;
 
+    String msg = "Android: ";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
