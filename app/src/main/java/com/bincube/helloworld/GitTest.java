@@ -6,4 +6,5 @@ package com.bincube.helloworld;
 
 public class GitTest {
 
+
 }
